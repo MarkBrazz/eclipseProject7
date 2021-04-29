@@ -1,0 +1,2 @@
+module eclipseProject7 {
+}
